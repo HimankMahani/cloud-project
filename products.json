@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "name": "Box Crewneck Tee",
+      "price": 69.99,
+      "images": [
+        "https://images.unsplash.com/photo-1576566588028-4147f3842f27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1664&q=80",
+        "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1280&q=80"
+      ],
+      "category": "T-Shirts",
+      "description": "Premium cotton t-shirt with a relaxed fit and signature box logo.",
+      "details": [
+        "100% premium cotton",
+        "Relaxed fit",
+        "Ribbed crew neck",
+        "Machine washable"
+      ],
+      "colors": ["Black", "White", "Navy", "Gray"],
+      "sizes": ["S", "M", "L", "XL"],
+      "isNew": true,
+      "isBestseller": true,
+      "inStock": true,
+      "rating": 4.8,
+      "reviews": 124,
+      "createdAt": "2023-06-12"
+    },
+    {
+      "id": "p2",
+      "name": "Flintlock Tee",
+      "price": 59.99,
+      "images": [
+        "https://images.unsplash.com/photo-1525828024186-5294af6c926d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
+        "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80"
+      ],
+      "category": "T-Shirts",
+      "description": "Lightweight cotton tee with a modern elongated cut.",
+      "details": [
+        "95% cotton, 5% elastane",
+        "Modern elongated cut",
+        "Curved hem",
+        "Machine washable"
+      ],
+      "colors": ["Black", "White", "Olive", "Burgundy"],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "isNew": true,
+      "isBestseller": false,
+      "inStock": true,
+      "rating": 4.5,
+      "reviews": 87,
+      "createdAt": "2023-07-05"
+    },
+    {
+      "id": "p3",
+      "name": "Flight Bomber Jacket",
+      "price": 159.99,
+      "images": [
+        "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1336&q=80",
+        "https://images.unsplash.com/photo-1548883542-2546da626ef1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1336&q=80"
+      ],
+      "category": "Jackets",
+      "description": "Modern bomber jacket with weather-resistant shell and premium insulation.",
+      "details": [
+        "Weather-resistant outer shell",
+        "Premium insulation for warmth",
+        "Ribbed cuffs and collar",
+        "Two-way front zipper",
+        "Multiple storage pockets"
+      ],
+      "colors": ["Navy", "Black", "Olive"],
+      "sizes": ["S", "M", "L", "XL"],
+      "isNew": true,
+      "isBestseller": true,
+      "inStock": true,
+      "rating": 4.9,
+      "reviews": 56,
+      "createdAt": "2023-09-20"
+    },
+    {
+      "id": "p4",
+      "name": "Denim Chore Jacket",
+      "price": 149.99,
+      "images": [
+        "https://images.unsplash.com/photo-1492447273231-0f8fecec1e3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
+        "https://images.unsplash.com/photo-1591196702597-a8645a776b94?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1336&q=80"
+      ],
+      "category": "Jackets",
+      "description": "Classic denim chore jacket with multiple utility pockets and vintage wash.",
+      "details": [
+        "12oz premium denim",
+        "Vintage wash",
+        "Four exterior pockets",
+        "Button-up front",
+        "Adjustable cuffs"
+      ],
+      "colors": ["Denim", "Black", "Khaki"],
+      "sizes": ["S", "M", "L", "XL"],
+      "isNew": false,
+      "isBestseller": false,
+      "inStock": true,
+      "rating": 4.6,
+      "reviews": 38,
+      "createdAt": "2023-05-15"
+    },
+    {
+      "id": "p5",
+      "name": "Sureshot Jogger",
+      "price": 99.99,
+      "images": [
+        "https://images.unsplash.com/photo-1510951475896-ce8cacb1899f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
+        "https://images.unsplash.com/photo-1552902865-b72c31df8877?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1336&q=80"
+      ],
+      "category": "Bottoms",
+      "description": "Tapered jogger pants with stretch fabric for maximum comfort and mobility.",
+      "details": [
+        "98% cotton, 2% elastane",
+        "Tapered fit",
+        "Drawstring waistband",
+        "Front and back pockets",
+        "Ankle cuffs"
+      ],
+      "colors": ["Black", "Gray", "Navy", "Khaki"],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "isNew": true,
+      "isBestseller": true,
+      "inStock": true,
+      "rating": 4.9,
+      "reviews": 215,
+      "createdAt": "2023-03-10"
+    }
+  ]
+} 

@@ -1,0 +1,32 @@
+{
+  "collections": [
+    {
+      "id": "modern-essentials",
+      "name": "Modern Essentials",
+      "image": "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
+      "description": "Elevated basics for everyday wear",
+      "productIds": ["p1", "p2", "p8", "p10", "p15"]
+    },
+    {
+      "id": "urban-tech",
+      "name": "Urban Tech",
+      "image": "https://images.unsplash.com/photo-1503341733017-1901578f9f1e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
+      "description": "Performance-driven designs for the modern lifestyle",
+      "productIds": ["p3", "p5", "p6", "p7"]
+    },
+    {
+      "id": "artisan",
+      "name": "Artisan Series",
+      "image": "https://images.unsplash.com/photo-1532453288672-3a27e9be9efd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
+      "description": "Limited-edition pieces with unique details",
+      "productIds": ["p4", "p9", "p11", "p12"]
+    },
+    {
+      "id": "accessories-collection",
+      "name": "Accessories Collection",
+      "image": "https://images.unsplash.com/photo-1581092795360-fd1ca04f0952?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1280&q=80",
+      "description": "The perfect finishing touches",
+      "productIds": ["p13", "p14"]
+    }
+  ]
+} 
